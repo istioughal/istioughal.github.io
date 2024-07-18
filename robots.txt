@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istioughal.github.io/sitemap
+Sitemap: https://istioughal.github.io/app/sitemap
+Sitemap: https://istioughal.github.io/assets/sitemap
+Sitemap: https://istioughal.github.io/css/sitemap
+Sitemap: https://istioughal.github.io/includes/sitemap
+Sitemap: https://istioughal.github.io/item/sitemap
+Sitemap: https://istioughal.github.io/src/sitemap
